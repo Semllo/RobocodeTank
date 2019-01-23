@@ -1,5 +1,5 @@
 
-package kawigi.nano;
+package *;
 
 import robocode.AdvancedRobot;
 import robocode.ScannedRobotEvent;
